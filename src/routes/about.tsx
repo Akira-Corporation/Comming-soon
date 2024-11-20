@@ -6,7 +6,7 @@ function AboutPage() {
     <Layout>
       <Article
         title="About"
-        imageAlt="Lorem Picsum"
+        imageAlt="Lorem hello Picsum"
         imageSrc="https://picsum.photos/420/640?grayscale"
       >
         {/* prettier-ignore */}
